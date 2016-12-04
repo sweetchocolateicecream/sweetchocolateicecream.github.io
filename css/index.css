@@ -1,0 +1,11 @@
+.navcolor {
+	background-color: FFD7FE
+}
+
+body {
+	background-image: url("../img/summer.jpg"); background-size: cover;
+}
+
+.profilepic {
+	max-width: 100%;
+}

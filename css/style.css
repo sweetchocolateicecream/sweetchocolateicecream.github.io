@@ -1,0 +1,49 @@
+.profilepic {
+	max-width: 100%;
+}
+
+.myprogress::-webkit-progress-value {
+	background-color: FF0000 !important;
+}
+
+.myprogress::-webkit-progress-bar {
+	background-color: C0C0C0 !important;
+}
+
+.color::-webkit-progress-value {
+	background-color: F2FF52 !important;
+}
+
+.color::-webkit-progress-bar {
+	background-color: C0C0C0 !important;
+}
+
+.hello::-webkit-progress-value {
+	background-color: 41FF57 !important;
+}
+
+.hello::-webkit-progress-bar {
+	background-color: C0C0C0 !important;
+}
+
+body {
+	background-image: url("../img/snow-wallpaper.jpg"); background-size: cover;
+}
+
+.font {
+	font-style: oblique;
+	font-family: cursive;
+}
+
+.myiconclass {
+	font-size: 50px;
+}
+
+.snowmancolor {
+	background-color: 6EE2E5;
+}
+
+.size {
+	max-width: 5%;
+	max-height: 5%;
+}
